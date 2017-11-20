@@ -1,10 +1,10 @@
-###AGRICOIN
+#AGRICOIN
 ![](https://agricoin.asia/images/banner.png)
 
 [TOCM]
 
 
-###SPECFICATION
+#SPECFICATION
 - NAME **AGRICOIN**
 - TICKER **AGC**
 - TYPE **POW**
@@ -17,13 +17,13 @@
 - COIN MATURITY **120 BLOCK**
 - FEE **0.001 AGC**
 
-###PRE-LAUNCH REWARDS
+#PRE-LAUNCH REWARDS
 - PREMINE **41,000,000**(8% TOTAL SUPPLY)
 - PRELAUNCH **1000 AGC REWARD** (< 10000 BLOCK )
 - PRELAUNCH **500 AGC REWARD** (< 20000 BLOCK )
 - PRELAUNCH **200 AGC REWARD** (< 40000 BLOCK )
 
-###LIST TO DO
+#LIST TO DO
 
 - [x] QT-WALLET
 - [x] GITHUB
@@ -31,10 +31,10 @@
 - [ ] MINING POOL
 - [ ] ANDROID WALLET
 
-###LINK
+#LINK
 - [windows qt-wallet](https://agricoin.asia "windows qt-wallet")
 
-###CONFIG
+#CONFIG
 - C:\Users\User pc\AppData\Roaming\Agricoin
 `agricoin.conf`
         rpcuser=userrpc
@@ -47,7 +47,7 @@
         rpcport=17846
         addnode=45.32.106.246
 
-###MINING
+#MINING
 
 ####Solo Mining
 - Run Agricoin QT Wallet
@@ -60,7 +60,7 @@
 
 
 
-###ROADMAP AGRICOIN
+#ROADMAP AGRICOIN
 
 
 
